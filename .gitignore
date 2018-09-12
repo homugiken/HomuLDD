@@ -1,2 +1,9 @@
 *.sublime-workspace
-
+*.ko
+*.o
+*.cmd
+*.order
+*.symvers
+*.mk
+*.mod.c
+*.tmp_versions
